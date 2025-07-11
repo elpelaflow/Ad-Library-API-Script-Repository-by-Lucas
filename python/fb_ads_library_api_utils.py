@@ -9,6 +9,7 @@
 from iso3166 import countries
 
 supported_countries = [
+    "AR",
     "AT",
     "BE",
     "BG",
